@@ -1,4 +1,6 @@
-/*import React, {useState,useEffect} from "react";
+          //function based
+
+import React, {useState,useEffect} from "react";
 
 
 function StateHook() {
@@ -30,6 +32,8 @@ useEffect( () => {
 }
 export default StateHook;
 //<button onClick = {Increase2}>New one</button>*/
+
+   //class based
 
 import React from 'react';
 class click extends React.Component {
